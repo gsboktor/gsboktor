@@ -6,7 +6,7 @@
 - 💬 Ask me about my favorite **book, movie, album, rock climbing grip**🪨
 - 📫 How to reach me: **gsboktor@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I've never finished a whole apple**
+- ⚡ Fun fact: **I've never finished an entire apple**
 <!--
 **gsboktor/gsboktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
