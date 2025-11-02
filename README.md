@@ -1,6 +1,6 @@
 # Hello World 👋
 
-### My name's George. A Professional Fullstack Software Engineer working on some cool things.
+### My name's George. A Senior Fullstack Software Engineer working on some cool things.
 - 🔭 I’m currently working on a **new cross-platform React Native App built with Supabase/Expo** 📱
 - 🌱 I’m currently learning **React Native, React 18, Zustand, React Native Reanimated, Supabase, Amplify** 🪄
 - 💬 Ask me about my favorite **book, movie, album, rock climbing grip**🪨
